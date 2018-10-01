@@ -1,24 +1,78 @@
-# README
+# Basket Case
+> An arcade-style, catch-the-apples type game. Make sure to avoid the Beehives!!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Created with a Ruby on Rails API backend and a Javascript frontend, Basket Case is a game inspired by arcade type games. You must catch as many apples as you - it's okay if you miss some - and gain as many points as possible to be on the leaderboard; just make sure to avoid the Beehives! You start with 3 health packs, if a beehive touches you (the basket), then you will lose a life.
 
-Things you may want to cover:
+Javascript front end repo available here: https://github.com/Ms-Alex/basket-case-frontend
 
-* Ruby version
+<p align="center">
+  <img src="https://media.giphy.com/media/ero9mTlPmiByTxodsQ/giphy.gif">
+</p>
 
-* System dependencies
+## Installation
 
-* Configuration
+OS X & Linux:
 
-* Database creation
+front end: 
+```sh
+npm install
+```
 
-* Database initialization
+back end:
+```sh
+bundle install
+```
 
-* How to run the test suite
+## Usage example
 
-* Services (job queues, cache servers, search engines, etc.)
+Before playing, you must enter a username:
 
-* Deployment instructions
+<p align="center">
+  <img src="https://media.giphy.com/media/25OBHoAMQNkJLjcKjw/giphy.gif">
+</p>
 
-* ...
+
+Then, play to your heart's content until you reach the leaderboard.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/cJz04ccqHzOdrftvI9/giphy.gif">
+</p>
+
+
+## Development setup
+
+front end:
+```sh
+open index.html
+```
+back end:
+```sh
+rails db:create
+rails db:migrate
+rails s
+```
+
+## Release History
+
+* 0.1.0
+    * The first proper release
+
+## Meta
+
+Brad Newman - newmanbradm@gmail.com
+
+Alexandra Hernandez – ms.hernandeza1@gmail.com
+
+Distributed under the MIT license. See ``LICENSE`` for more information.
+
+[https://github.com/newmanbradm/github-link]
+
+[https://github.com/Ms-Alex/github-link]
+
+## Contributing
+
+1. Fork it (<https://github.com/Ms-Alex/basket-case-frontend/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
