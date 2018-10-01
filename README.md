@@ -65,9 +65,9 @@ Alexandra Hernandez – ms.hernandeza1@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/newmanbradm/github-link]
+[https://github.com/newmanbradm]
 
-[https://github.com/Ms-Alex/github-link]
+[https://github.com/Ms-Alex]
 
 ## Contributing
 
