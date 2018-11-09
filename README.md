@@ -51,6 +51,7 @@ rails db:create
 rails db:migrate
 rails s
 ```
+** Must have postgres installed and running on the background.
 
 ## Release History
 
