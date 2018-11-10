@@ -6,7 +6,7 @@ Created with a Ruby on Rails API backend and a Javascript frontend, Basket Case 
 Javascript front end repo available here: https://github.com/Ms-Alex/basket-case-frontend
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ero9mTlPmiByTxodsQ/giphy.gif">
+  <img src="https://media.giphy.com/media/8FDepbpNfE0ZPxXdjB/giphy.gif" alt="basketcase still image">
 </p>
 
 ## Installation
@@ -28,14 +28,14 @@ bundle install
 Before playing, you must enter a username:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/25OBHoAMQNkJLjcKjw/giphy.gif">
+  <img src="https://media.giphy.com/media/fZYlMl3caJxX9pGXTN/giphy.gif" alt="basketcase demo 1">
 </p>
 
 
-Then, play to your heart's content until you reach the leaderboard.
+Then, play to your heart's content until you reach the leaderboard. But, remember to AVOID the beehives!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/cJz04ccqHzOdrftvI9/giphy.gif">
+  <img src="https://media.giphy.com/media/69jtMeDXW7Z2marvz8/giphy.gif" alt="basketcase demo 2">
 </p>
 
 
