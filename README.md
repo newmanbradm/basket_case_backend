@@ -23,7 +23,7 @@ back end:
 bundle install
 ```
 
-## Usage example
+## Usage Example
 
 Before playing, you must enter a username:
 
@@ -39,7 +39,7 @@ Then, play to your heart's content until you reach the leaderboard.
 </p>
 
 
-## Development setup
+## Development Setup
 
 front end:
 ```sh
